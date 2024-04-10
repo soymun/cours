@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YY0G3YM1Eue4KWMIOq6ThlarLhscZePQqeLvHJhH3US/PmTxBQbjDVxOlVdIKDnGn2uOGyhqy6fVELhaqPhoTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pkeke\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pkeke\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
