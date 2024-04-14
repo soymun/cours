@@ -1,6 +1,7 @@
 ﻿using ConsoleApp3;
 using MathNet.Numerics;
 using MathNet.Numerics.Statistics;
+using System.Collections.Generic;
 
 double[] matrix = {24,27, 26, 21  ,20, 31, 26, 22,20,18, 30, 29,24,26};
 
